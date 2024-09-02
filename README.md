@@ -2,6 +2,9 @@
 
 [<img src="https://raw.githubusercontent.com/fkromer/awesome-zephyr/master/logo.svg?sanitize=true" align="right" width="86">](https://www.zephyrproject.org/)
 
+> [!IMPORTANT]
+> Have a look into [awesome-zephyr-rtos](https://github.com/golioth/awesome-zephyr-rtos) instead.
+
 > A curated list of awesome Zephyr RTOS ([Zephyr Project](https://www.zephyrproject.org/)) resoures.
 
 ## Contents
